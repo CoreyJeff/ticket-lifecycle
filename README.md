@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 1: Open a osTicket Support Center tab using this link http://localhost/osTicket/
+Step 1: Open a osTicket Support Center tab in your Virtual machine using this link (http://localhost/osTicket/) and Log in. Next you will open a ticket and use the email we made last section (karen@osticket.com) and username (Karen Karen). Set the Help Topic to Business Critical Outage and under summary put "Entire mobile banking is down". In details put "Customers are reporting they are getting 404 error while using mobile banking app then create the ticket. When the ticket is finished log out of the account.
 </p>
 <br />
 
@@ -41,7 +41,7 @@ Step 1: Open a osTicket Support Center tab using this link http://localhost/osTi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 2: Log in as a admin using this link (http://localhost/osTicket/scp/login.php) User could be (user_admin). Go to the admin panel. From there go to the Agents tab and click (Jane Doe). Next you will go to the Access tab and under Extended Access put the department to Support and role to Supreme Admin and save the changes. Log out and log back in as (Jane Doe) and you should have access to the tickets.
 </p>
 <br />
 
@@ -49,6 +49,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 3: Click your Karen ticket you made and review it. Start by changing the Priority from normal to Emergency and in the notes put Buisness impacting event. Next assign the ticket to yourself and change the SLA Plan to (Sev-A). Now you will reset the department to System Administators in the notes put "Sys Admins are responsible for banking infustructure". Scroll down to the bottom of the ticket and in Response details put "Coordinating with Sys Admin Team to bring mobile banking back online" and Post Reply.
 </p>
 <br />
