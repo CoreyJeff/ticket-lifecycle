@@ -39,7 +39,8 @@ Step 1: Open a osTicket Support Center tab in your Virtual machine using this li
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/ticket-lifecycle/assets/138095936/b0285d7c-319d-494e-b1b5-81700bcecddb"
+"/>
 </p>
 <p>
 Step 2: Log in as a admin using this link (http://localhost/osTicket/scp/login.php) User could be (user_admin). Go to the admin panel. From there go to the Agents tab and click (Jane Doe). Next you will go to the Access tab and under Extended Access put the department to Support and role to Supreme Admin and save the changes. Log out and log back in as (Jane Doe) and you should have access to the tickets.
