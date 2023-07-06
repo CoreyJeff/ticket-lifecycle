@@ -27,7 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>User Section</h2>
+<h2>User And Agent Section</h2>
 
 <p>
 <img src=https://github.com/CoreyJeff/ticket-lifecycle/assets/138095936/38f1e9b7-c9ef-40f9-9c56-28fa0f7b06c0"
