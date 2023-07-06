@@ -48,7 +48,8 @@ Step 2: Log in as a admin using this link (http://localhost/osTicket/scp/login.p
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/ticket-lifecycle/assets/138095936/3ce0c6d8-904b-42e6-88a9-9d91036f5a93"
+"/>
 </p>
 <p>
 Step 3: Click your Karen ticket you made and review it. Start by changing the Priority from normal to Emergency and in the notes put Buisness impacting event. Next assign the ticket to yourself and change the SLA Plan to (Sev-A). Now you will reset the department to System Administators in the notes put "Sys Admins are responsible for banking infustructure". Scroll down to the bottom of the ticket and in Response details put "Coordinating with Sys Admin Team to bring mobile banking back online" and Post Reply.
