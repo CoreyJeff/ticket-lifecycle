@@ -30,7 +30,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>User Section</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://github.com/CoreyJeff/ticket-lifecycle/assets/138095936/38f1e9b7-c9ef-40f9-9c56-28fa0f7b06c0"
+"/>
 </p>
 <p>
 Step 1: Open a osTicket Support Center tab in your Virtual machine using this link (http://localhost/osTicket/) and Log in. Next you will open a ticket and use the email we made last section (karen@osticket.com) and username (Karen Karen). Set the Help Topic to Business Critical Outage and under summary put "Entire mobile banking is down". In details put "Customers are reporting they are getting 404 error while using mobile banking app then create the ticket. When the ticket is finished log out of the account.
