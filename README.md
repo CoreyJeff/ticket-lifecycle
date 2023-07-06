@@ -57,7 +57,8 @@ Step 3: Click your Karen ticket you made and review it. Start by changing the Pr
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/ticket-lifecycle/assets/138095936/0b6de35b-2e2d-4e88-99d3-99f9d0831b5b"
+"/>
 </p>
 <p>
 Step 4: When you resolved the problem go back in the ticket and scroll to the bottom and under Ticket Status put Resolved or Close ticket. Next in details you will put what you did to resolve the ticket. Now you know how to make and resolve tickets from scratch in osTicket.
